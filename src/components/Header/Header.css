@@ -1,0 +1,52 @@
+.nav-img{
+    margin-right: 8rem;
+}
+.hover-item:hover {
+
+}
+.home-title{
+    font-size: 4rem;
+}
+.title{
+    font-size: 3rem;
+}
+.bg-coral{
+    background-color: coral;
+}
+.text-coral{
+    color : coral;
+}
+.chef{
+    height: 25rem;
+}
+.btn{
+    color:coral;
+    padding: 3%;
+    border-radius: 40px;
+}
+.btn-coral{
+    color:white;
+    padding: 4%;
+    border-radius: 40px;
+    background-color: coral;
+}
+ul {
+    list-style: none;
+    padding: 0;
+  }
+  li {
+    padding-left: 1.3em;
+  }
+  .list li:before {
+    content: "\f00c"; /* FontAwesome Unicode */
+    font-family: FontAwesome;
+    display: inline-block;
+    margin-left: -1.3em; /* same as padding-left set on li */
+    width: 1.3em; /* same as padding-left set on li */
+  }
+  .fas,.fab{
+      color:coral;
+  }
+  .card{
+      height: 33vw;
+  }

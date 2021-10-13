@@ -1,0 +1,109 @@
+[
+    {
+        "key": "B002RL8IYK",
+        "category": "class",
+       
+        "name": "Original Ice Cream Class",
+        "stock": 36,
+        "star": 3,
+        "starCount": 3245,
+        "lectures": 5,
+        
+        "img": "https://image.freepik.com/free-photo/ice-cream-cone-stand_169016-6345.jpg",
+        "onlineFee": 50.00,
+        "offlineFee": 100.99
+        
+    },
+    {
+        "key": "B002RL8IYQ",
+        "category": "class",
+       
+        "name": "Traditional Bangladeshi Cuisine ",
+        "stock": 36,
+        "star": 3,
+        "lectures": 10,
+        "starCount": 3245,
+        "img": "https://image.freepik.com/free-photo/top-view-bowls-with-indian-food_23-2148723454.jpg",
+        "onlineFee": 50.00,
+        "offlineFee": 100.99
+    },
+    {
+        "key": "B002RL8IYL",
+        "category": "class",
+        
+        "name": "Chineese Cuisines",
+        "stock": 36,
+        "star": 3,
+        "lectures": 12,
+        "starCount": 3245,
+        "img": "https://as1.ftcdn.net/v2/jpg/04/39/99/84/500_F_439998469_r5xMzIx2bVDkjX2ARGJw4z0RiqU6Bxts.jpg",
+        "onlineFee": 50.00,
+        "offlineFee": 100.99
+    },
+    {
+        "key": "B042RL8IYF",
+        "category": "class",
+      
+        "name": "Perfect Italian Pizza Making Class",
+        "stock": 36,
+        "star": 3,
+        "starCount": 3245,
+        "lectures": 5,
+        "img": "https://image.freepik.com/free-photo/top-view-pepperoni-pizza-sliced-into-six-slices_141793-2157.jpg",
+        "onlineFee": 50.00,
+        "offlineFee": 100.99
+    },
+    {
+        "key": "B002RP8IYF",
+        "category": "class",
+      
+        "name": "Cakes and Desserts Making",
+        "stock": 36,
+        "star": 3,
+        "lectures": 6,
+        "starCount": 3245,
+        "img": "https://img.freepik.com/free-photo/festive-cake-with-chocolate-berries-waffle-horn_128299-16.jpg?size=338&ext=jpg",
+        "onlineFee": 50.00,
+        "offlineFee": 100.99
+    },
+    {
+        "key": "B002RL8IYF",
+        "category": "class",
+      
+        "name": "More than 100 type of Drinks Making Class",
+        "stock": 36,
+        "star": 3,
+        "lectures": 4,
+        "starCount": 3245,
+        "img": "https://image.freepik.com/free-photo/different-types-mojito-cocktail-dark-brown_93675-16775.jpg",
+        "onlineFee": 50.00,
+        "offlineFee": 100.99
+    },
+    {
+        "key": "B002RL8IYF",
+        "category": "class",
+      
+        "name": "Food Decoration and Serving",
+        "stock": 36,
+        "star": 3,
+        "lectures": 6,
+        "starCount": 3245,
+        "img": "https://image.freepik.com/free-photo/delicious-grilled-chicken-with-vegetables-dinner_144627-41482.jpg",
+        "onlineFee": 50.00,
+        "offlineFee": 100.99
+    },
+    {
+        "key": "B002RL8OOP",
+        "category": "class",
+      
+        "name": "Bakery and Fast Food Item",
+        "stock": 36,
+        "star": 3,
+        "lectures": 4,
+        "starCount": 3245,
+        "img": "https://image.freepik.com/free-photo/croissants-wooden-cutting-board_1150-28480.jpg",
+        "onlineFee": 50.00,
+        "offlineFee": 100.99
+    }
+    
+]
